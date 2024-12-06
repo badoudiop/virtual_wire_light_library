@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Morse
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+My_vw_simple	KEYWORD1	
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+
+  get_data KEYWORD2
+ send_char KEYWORD2
+  tx_init KEYWORD2
+  rx_init KEYWORD2
+ receive KEYWORD2
+  transmit KEYWORD2
+
+
+
+# My_vw_simple Class
