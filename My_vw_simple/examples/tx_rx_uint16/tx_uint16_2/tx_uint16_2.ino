@@ -1,6 +1,4 @@
-/*
-ce programme en fonction avec rx_gpt bloque les clefs de voiture qui sont désactivées .
-*/
+
 #include <My_vw_simple.h>
 
 #define F_CPU 2000000UL
