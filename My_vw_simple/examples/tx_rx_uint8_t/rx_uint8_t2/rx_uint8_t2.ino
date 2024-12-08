@@ -1,6 +1,4 @@
-/*
-ce programme avec le tx_gpt bloque les clefs de voiture qui ne fonctionnent pas .
-*/
+
 #include <My_vw_simple.h>
 
 #define F_CPU 2000000UL
